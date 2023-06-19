@@ -83,7 +83,7 @@ func playGame() -> Bool {
             print("Invalid selection, please try again.")
         }
         if round != 3 {
-            print("----------")
+            print("-------------------")
         }
     }
 
